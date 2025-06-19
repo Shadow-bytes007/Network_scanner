@@ -69,7 +69,7 @@ cd .. && rm -r NETWORK_SCANNER
 
 ## 🪪 License
 ### This project is licensed under the MIT License.
-###Fork it, improve it, share it — just give credit!
+### Fork it, improve it, share it — just give credit!
 
 ##
 
