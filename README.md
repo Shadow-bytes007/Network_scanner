@@ -19,7 +19,7 @@
 ### 🔧 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/NETWORK_SCANNER.git
+git clone https://github.com/Shadow-bytes007/NETWORK_SCANNER.git
 ```
 
 
