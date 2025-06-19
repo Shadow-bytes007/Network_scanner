@@ -37,7 +37,7 @@ chmod +x install_networkscanner.sh
 
 
 ```bash
-network_scanner
+sudo network_scanner
 ```
 
 ### Enter the IP range (in CIDR format) when prompted, e.g.:
